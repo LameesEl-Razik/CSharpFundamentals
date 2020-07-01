@@ -51,7 +51,7 @@ namespace CSharpFundamentalsCourse
 
 
             //ex3
-            /*
+            
             var numbers = new List<int>();
 
             while (numbers.Count < 5)
@@ -71,10 +71,12 @@ namespace CSharpFundamentalsCourse
 
             foreach (var number in numbers)
                 Console.WriteLine(number);
-            */
+            
 
 
             //ex4
+
+            /*
 
             var numbers = new List<int>();
 
@@ -100,7 +102,7 @@ namespace CSharpFundamentalsCourse
             foreach (var number in uniques)
                 Console.WriteLine(number);
 
-
+    */
 
 
         }
