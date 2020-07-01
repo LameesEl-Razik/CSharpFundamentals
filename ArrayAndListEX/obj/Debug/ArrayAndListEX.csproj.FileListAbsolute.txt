@@ -1,0 +1,6 @@
+C:\Users\lelrazik\CsharpFundamentals\CSharpFundamentalsCourse\ArrayAndListEX\bin\Debug\ArrayAndListEX.exe.config
+C:\Users\lelrazik\CsharpFundamentals\CSharpFundamentalsCourse\ArrayAndListEX\bin\Debug\ArrayAndListEX.exe
+C:\Users\lelrazik\CsharpFundamentals\CSharpFundamentalsCourse\ArrayAndListEX\bin\Debug\ArrayAndListEX.pdb
+C:\Users\lelrazik\CsharpFundamentals\CSharpFundamentalsCourse\ArrayAndListEX\obj\Debug\ArrayAndListEX.csproj.CoreCompileInputs.cache
+C:\Users\lelrazik\CsharpFundamentals\CSharpFundamentalsCourse\ArrayAndListEX\obj\Debug\ArrayAndListEX.exe
+C:\Users\lelrazik\CsharpFundamentals\CSharpFundamentalsCourse\ArrayAndListEX\obj\Debug\ArrayAndListEX.pdb

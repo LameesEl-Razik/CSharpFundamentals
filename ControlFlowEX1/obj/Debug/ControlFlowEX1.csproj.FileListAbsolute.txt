@@ -1,0 +1,7 @@
+C:\Users\lelrazik\CsharpFundamentals\CSharpFundamentalsCourse\ControlFlowEX1\bin\Debug\ControlFlowEX1.exe.config
+C:\Users\lelrazik\CsharpFundamentals\CSharpFundamentalsCourse\ControlFlowEX1\bin\Debug\ControlFlowEX1.exe
+C:\Users\lelrazik\CsharpFundamentals\CSharpFundamentalsCourse\ControlFlowEX1\bin\Debug\ControlFlowEX1.pdb
+C:\Users\lelrazik\CsharpFundamentals\CSharpFundamentalsCourse\ControlFlowEX1\obj\Debug\ControlFlowEX1.csprojAssemblyReference.cache
+C:\Users\lelrazik\CsharpFundamentals\CSharpFundamentalsCourse\ControlFlowEX1\obj\Debug\ControlFlowEX1.csproj.CoreCompileInputs.cache
+C:\Users\lelrazik\CsharpFundamentals\CSharpFundamentalsCourse\ControlFlowEX1\obj\Debug\ControlFlowEX1.exe
+C:\Users\lelrazik\CsharpFundamentals\CSharpFundamentalsCourse\ControlFlowEX1\obj\Debug\ControlFlowEX1.pdb
