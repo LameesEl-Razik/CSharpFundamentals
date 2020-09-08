@@ -1,0 +1,7 @@
+C:\Users\lelrazik\CsharpFundamentals\CSharpFundamentals\WorkingWithText\bin\Debug\WorkingWithText.exe.config
+C:\Users\lelrazik\CsharpFundamentals\CSharpFundamentals\WorkingWithText\bin\Debug\WorkingWithText.exe
+C:\Users\lelrazik\CsharpFundamentals\CSharpFundamentals\WorkingWithText\bin\Debug\WorkingWithText.pdb
+C:\Users\lelrazik\CsharpFundamentals\CSharpFundamentals\WorkingWithText\obj\Debug\WorkingWithText.csprojAssemblyReference.cache
+C:\Users\lelrazik\CsharpFundamentals\CSharpFundamentals\WorkingWithText\obj\Debug\WorkingWithText.csproj.CoreCompileInputs.cache
+C:\Users\lelrazik\CsharpFundamentals\CSharpFundamentals\WorkingWithText\obj\Debug\WorkingWithText.exe
+C:\Users\lelrazik\CsharpFundamentals\CSharpFundamentals\WorkingWithText\obj\Debug\WorkingWithText.pdb

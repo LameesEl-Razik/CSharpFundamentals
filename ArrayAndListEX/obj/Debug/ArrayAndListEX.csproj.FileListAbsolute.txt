@@ -4,3 +4,10 @@ C:\Users\lelrazik\CsharpFundamentals\CSharpFundamentalsCourse\ArrayAndListEX\bin
 C:\Users\lelrazik\CsharpFundamentals\CSharpFundamentalsCourse\ArrayAndListEX\obj\Debug\ArrayAndListEX.csproj.CoreCompileInputs.cache
 C:\Users\lelrazik\CsharpFundamentals\CSharpFundamentalsCourse\ArrayAndListEX\obj\Debug\ArrayAndListEX.exe
 C:\Users\lelrazik\CsharpFundamentals\CSharpFundamentalsCourse\ArrayAndListEX\obj\Debug\ArrayAndListEX.pdb
+C:\Users\lelrazik\CsharpFundamentals\CSharpFundamentals\ArrayAndListEX\bin\Debug\ArrayAndListEX.exe.config
+C:\Users\lelrazik\CsharpFundamentals\CSharpFundamentals\ArrayAndListEX\bin\Debug\ArrayAndListEX.exe
+C:\Users\lelrazik\CsharpFundamentals\CSharpFundamentals\ArrayAndListEX\bin\Debug\ArrayAndListEX.pdb
+C:\Users\lelrazik\CsharpFundamentals\CSharpFundamentals\ArrayAndListEX\obj\Debug\ArrayAndListEX.csprojAssemblyReference.cache
+C:\Users\lelrazik\CsharpFundamentals\CSharpFundamentals\ArrayAndListEX\obj\Debug\ArrayAndListEX.csproj.CoreCompileInputs.cache
+C:\Users\lelrazik\CsharpFundamentals\CSharpFundamentals\ArrayAndListEX\obj\Debug\ArrayAndListEX.exe
+C:\Users\lelrazik\CsharpFundamentals\CSharpFundamentals\ArrayAndListEX\obj\Debug\ArrayAndListEX.pdb
